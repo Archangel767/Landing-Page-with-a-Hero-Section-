@@ -1,9 +1,9 @@
-# Course Title: Assignment 3 - Image gallery and Icons
+# Course Title: Assignment 4 - Landing Page with a Hero Section
 - Author: James Atkinson
 
 ## Github Links
-- Repo: https://github.com/Archangel767/cpnt260-a3
-- Pages: https://archangel767.github.io/cpnt260-a3/
+- Repo: https://github.com/Archangel767/cpnt260-a4
+- Pages: https://archangel767.github.io/cpnt260-a4/
 
 ## Code Review
 - Hamburger menu gave me the most trouble
